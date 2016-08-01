@@ -110,6 +110,7 @@ describe('Tutorial Tab', function() {
   });
 
   //Should look for tutorial links in a for loop
+  //DUPLICATE test, wanted to LEARN/EXPERIMENT
   it('should look for tutorial link in for loop', function() {
     // Look for All Tutorial Links 1-7 by xpath
     element.all(
