@@ -5,7 +5,7 @@ Validation of website https://angular.io
 
 Use protractor along with `conf.js` to execute
 
-`protractor conf.js`
+`npm start`
 
 
 
